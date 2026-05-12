@@ -21,7 +21,7 @@ Real-time monitoring of CO₂, particulate matter (PM2.5), temperature, humidity
 
 ## 🧰 Hardware Stack (BOM)
 
-Core Components
+### Core Components
 - Raspberry Pi 5 (or Raspberry Pi 4)
 - Air Quality Sensors:
     - CO₂ sensor (e.g., MH-Z19B or SCD40)
@@ -29,10 +29,10 @@ Core Components
     - Temperature & Humidity sensor (e.g., BME280)
     - VOC / gas sensor (e.g., SGP30 or CCS811)
  
-Optional
-Small display or HDMI monitor
-Speaker for alerts
-Enclosure for wall-mount or desktop use
+### Optional
+- Small display or HDMI monitor
+- Speaker for alerts
+- Enclosure for wall-mount or desktop use
 
 Estimated Cost: ~$120–$150
 
