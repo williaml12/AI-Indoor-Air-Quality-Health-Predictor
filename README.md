@@ -34,7 +34,7 @@ Real-time monitoring of CO₂, particulate matter (PM2.5), temperature, humidity
 - Speaker for alerts
 - Enclosure for wall-mount or desktop use
 
-Estimated Cost: ~$120–$150
+**Estimated Cost:** ~$120–$150
 
 ## 💻 Software Stack
 - Raspberry Pi OS (64-bit)
@@ -54,9 +54,9 @@ The AI component learns from:
   
 Example predictions:
 
-- High CO₂ + long exposure → fatigue / poor concentration
+- **High CO₂ + long exposure → fatigue / poor concentration
 - High PM2.5 → respiratory irritation risk
 - Low humidity → dry throat, poor sleep
-- High VOCs → headache probability
-- 
-This transforms raw data into human-centric insights, which is what makes the project innovative.
+- High VOCs → headache probability**
+  
+This transforms raw data into **human-centric insights**, which is what makes the project innovative.
