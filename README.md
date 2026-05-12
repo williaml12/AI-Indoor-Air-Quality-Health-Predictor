@@ -29,5 +29,34 @@ Core Components
     - Temperature & Humidity sensor (e.g., BME280)
     - VOC / gas sensor (e.g., SGP30 or CCS811)
  
+Optional
+Small display or HDMI monitor
+Speaker for alerts
+Enclosure for wall-mount or desktop use
 
+Estimated Cost: ~$120–$150
+
+## 💻 Software Stack
+- Raspberry Pi OS (64-bit)
+- Python
+- OpenCV (optional, for future CV expansion)
+- NumPy / Pandas (data processing)
+- TensorFlow Lite or Scikit-learn (ML inference)
+- Flask or Streamlit (dashboard UI)
+- SQLite or CSV logging for historical analysis
+
+🧪 AI & Health Prediction Logic
+The AI component learns from:
+
+- Sensor combinations (e.g., high CO₂ + low humidity)
+- Exposure duration (e.g., CO₂ > 1200 ppm for 2+ hours)
+- Time-of-day patterns (sleep vs daytime)
   
+Example predictions:
+
+- High CO₂ + long exposure → fatigue / poor concentration
+- High PM2.5 → respiratory irritation risk
+- Low humidity → dry throat, poor sleep
+- High VOCs → headache probability
+- 
+This transforms raw data into human-centric insights, which is what makes the project innovative.
