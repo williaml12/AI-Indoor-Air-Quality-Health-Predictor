@@ -45,7 +45,7 @@ Estimated Cost: ~$120–$150
 - Flask or Streamlit (dashboard UI)
 - SQLite or CSV logging for historical analysis
 
-🧪 AI & Health Prediction Logic
+## 🧪 AI & Health Prediction Logic
 The AI component learns from:
 
 - Sensor combinations (e.g., high CO₂ + low humidity)
